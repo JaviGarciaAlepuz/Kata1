@@ -1,1 +1,1 @@
-print('Tus huevos nombre')
+print('Tus huevos hombree')
